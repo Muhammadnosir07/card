@@ -1,0 +1,27 @@
+.working{
+     margin: 0 auto;
+     margin-bottom: 20px;
+}
+.card{
+     background-color: #125058;
+     color: white;
+}
+.btn{
+     margin: 90px;
+     margin-bottom: -35px;
+     border-radius: 50%;
+     background-color: rgb(219, 89, 111);
+}
+.card-img-top{
+     margin-top: 80px;
+     margin-left: 80px;
+     border-radius: 500%;
+     width: 80px;
+     height: 74px;
+}
+.card-title{
+     margin-left: 50px;
+}
+.card-text{
+     margin-left: 50px;
+}
